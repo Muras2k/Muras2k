@@ -65,8 +65,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/muras2k/muras2k/output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <img src="https://github.com/muras2k/muras2k/blob/output/github-contribution-grid-snake.svg" />
+</p>
 ###
